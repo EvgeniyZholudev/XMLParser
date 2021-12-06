@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentList>
+    <Student id="1">
+        <FirstName>Yoko</FirstName>
+        <SecondName>Ona</SecondName>
+        <Age>22</Age>
+		<University>Hogwarts</University>
+		<Course>3</Course>
+		<Group>1068453</Group>
+	</Student>
+	<Student id="2">
+        <FirstName>Steve</FirstName>
+        <SecondName>Jobs</SecondName>
+        <Age>34</Age>
+		<University>Harvard University</University>
+		<Course>8</Course>
+		<Group>896845</Group>
+	</Student>
+</StudentList>
